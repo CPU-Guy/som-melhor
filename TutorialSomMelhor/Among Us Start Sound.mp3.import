@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Among Us Start Sound.mp3-ba41b0f7b4a2eb83038d4ffd73ae927a.mp3str"
+
+[deps]
+
+source_file="res://Among Us Start Sound.mp3"
+dest_files=[ "res://.import/Among Us Start Sound.mp3-ba41b0f7b4a2eb83038d4ffd73ae927a.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
